@@ -1,5 +1,7 @@
 #!/usr/bin/env bats
 
+load lcov.sh/lcov.sh
+
 setup() {
     . shellmock
 

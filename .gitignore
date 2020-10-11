@@ -2,3 +2,8 @@ tests/test_repo
 tests/tmpstubs
 tests/shellmock.*
 yarn.lock
+
+## WIP
+bash_shell_mock/
+lcov.sh/
+package-lock.json
